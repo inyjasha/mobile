@@ -33,3 +33,4 @@ google-services.json
 *.hprof
 **/release/
 *.aab
+!downloads/app-debug.apk
